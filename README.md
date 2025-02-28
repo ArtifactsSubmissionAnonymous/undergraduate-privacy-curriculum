@@ -5,13 +5,14 @@
 ## Lessons
 The proposed lessons guide students in understanding the need for privacy, identifying existing privacy protection mechanisms, and programming K-anonymity, pseudonymisation and differential privacy.
 
-* Lesson 1: Introduction to Privacy
-* Lesson 2: Data Privacy Protection
-* Lesson 3: Privacy Enhancing Technologies
-* Lesson 4: Pseudonymisation and K-Anonymity 
-* Lesson 5: Differential Privacy
+* Lecture 1: Introduction to Privacy
+* Lecture 2: Data Privacy Protection
+* Lecture 3: Privacy Enhancing Technologies
+* Lecture 4: Pseudonymisation and K-Anonymity 
+* Lecture 5: Differential Privacy
 
-## Assesments
+## Assessments
+This curriculum uses four types of assessments to evaluate the learning outcomes: optional exercises, mid-semester test (MST), assignment and the final exam.
 
 ## Programming Exercises
 
