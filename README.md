@@ -5,11 +5,11 @@
 ## Lessons
 The proposed lessons guide students in understanding the need for privacy, identifying existing privacy protection mechanisms, and programming K-anonymity, pseudonymisation and differential privacy.
 
-Lesson 1: Introduction to Privacy
-Lesson 2: Data Privacy Protection
-Lesson 3: Privacy Enhancing Technologies
-Lesson 4: Pseudonymisation And K-Anonymity
-Lesson 5: Differential Privacy
+* Lesson 1: Introduction to Privacy (definition, societal aspect, regulations, contextual privacy)
+* Lesson 2: Data Privacy Protection (digital footprint, Privacy by Design, LINDDUN threat modelling)
+* Lesson 3: Privacy Enhancing Technologies (theoretical background, known weaknesses, secondary benefits, selecting suitable PETs)
+* Lesson 4: Pseudonymisation And K-Anonymity 
+* Lesson 5: Differential Privacy
 
 ## Assesments
 
