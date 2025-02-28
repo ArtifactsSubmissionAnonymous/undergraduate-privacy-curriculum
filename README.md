@@ -8,7 +8,7 @@ The proposed lessons guide students in understanding the need for privacy, ident
 * Lesson 1: Introduction to Privacy
 * Lesson 2: Data Privacy Protection
 * Lesson 3: Privacy Enhancing Technologies
-* Lesson 4: Pseudonymisation And K-Anonymity 
+* Lesson 4: Pseudonymisation and K-Anonymity 
 * Lesson 5: Differential Privacy
 
 ## Assesments
